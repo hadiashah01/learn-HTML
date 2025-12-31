@@ -31,17 +31,17 @@ CSS and JavaScript may be added in the future.
 - Web Browser
 
 ## Project Structure
-learn-HTML
-├─ README.md 
-├─ assignments/ 
-│ ├─ README.md 
-│ └─ assignment-01/ 
-│ └─ index.html 
-├─ practice/ 
-│ ├─ formatting-tags.html 
-│ ├─ lists.html 
-│ └─ tables.html
-## Assignments
+learn-HTML  
+├─ README.md  
+├─ assignments/   
+│ ├─ README.md   
+│ └─ assignment-01/   
+│ └─ index.html  
+├─ practice/   
+│ ├─ formatting-tags.html   
+│ ├─ lists.html   
+│ └─ tables.html  
+## Assignments   
 - [x] Assignment 01 – HTML basics (headings, paragraphs, lists, anchors)
-- [ ] Assignment 02 – 
+- [ ] Assignment 02 
 
