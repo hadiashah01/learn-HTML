@@ -2,6 +2,6 @@
 
 Hands-on practice files for individual HTML concepts:
 
-- 🧪 [Formatting Tags Practice](docs/practice/formatting-tags.html)
-- 🧪 [Lists Practice](docs/practice/lists.html)
+- 🧪 [Formatting Tags Practice](formatting-tags.html)
+- 🧪 [Lists Practice](lists.html)
 - 🧪 Tables Practice (coming soon)
