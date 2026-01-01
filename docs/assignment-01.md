@@ -39,16 +39,16 @@ The following concepts were used in this assignment:
 >[!IMPORTANT]
 >```<!DOCTYPE html>``` declares the document as HTML5.
 
-## Elements & Tags
+# Elements & Tags
 
-### Paired Tags
+## Paired Tags
 ```html
 
 <p>Paragraph</p>
 <h1>Main Heading</h1>
 ```
 
-### Self-closing Tags
+## Self-closing Tags
 ```html
 Copy code
 <br />
@@ -59,9 +59,9 @@ Copy code
 >[!NOTE]
 >Self-closing tags do not contain content.
 
-### Lists
+## Lists
 
-#### Unordered List
+### Unordered List
 ```html
 Copy code
 <ul>
@@ -70,7 +70,7 @@ Copy code
 </ul>
 ```
 
-#### Nested List
+### Nested List
 ```html
 Copy code
 <ul>
@@ -82,8 +82,8 @@ Copy code
 </ul>
 ```
 
-### Anchor Tags
-#### Same Page Linking
+## Anchor Tags
+### Same Page Linking
 
 ```html
 Copy code
@@ -91,14 +91,14 @@ Copy code
 
 <h2 id="section-id">Target Section</h2>
 ```
-#### Linking to Another File
+### Linking to Another File
 
 ```html
 Copy code
 <a href="about-me.html">About Me</a>
 ```
 >[!IMPORTANT]
->href value must match the target id.
+>```href``` value must match the target ```id```.
 
 ## Development Environment
 | Tool |	Usage | 
