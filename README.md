@@ -50,19 +50,11 @@ learn-HTML
 │ └─ tables.html
 ```
 
-## Assignments   
-
-- [x] Assignment 01 – HTML basics (headings, paragraphs, lists, anchors)
-- [ ] Assignment 02 
----
-
 ## Assignments  
 
-- [Assignments README](assignments/README.md) (Assignment details)
-- ✅ [Assignment 01 – HTML Basics](assignments/assignment-01/index.html)
-- ⬜ Assignment 02 (planned)
-
----
+- [x] [Create README Markdown to introduce repository](assignments/README.md)
+- [x] [Use formatting tags to clone repo README](assignments/assignment-01/index.html)
+- [ ] Assignment 02 (planned)
 
 ## Documentation
 
