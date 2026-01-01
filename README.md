@@ -1,4 +1,4 @@
----
+
 # Learn HTML
 
 ## Table of Contents
@@ -44,4 +44,26 @@ learn-HTML
 ## Assignments   
 - [x] Assignment 01 – HTML basics (headings, paragraphs, lists, anchors)
 - [ ] Assignment 02 
+---
 
+## Assignments  
+- [Assignments README](assignments/README.md) (Assignment details)
+- ✅ [Assignment 01 – HTML Basics](assignments/assignment-01/index.html)
+- ⬜ Assignment 02 (planned)
+
+---
+
+## Documentation
+Detailed explanations and notes are maintained in the `docs` folder.
+
+-  [Docs Overview](docs/README.md)
+-  [Assignment 01 – Explanation](docs/assignment-01.md)
+
+---
+
+## Practice Files
+Hands-on practice files for individual HTML concepts:
+
+- 🧪 [Formatting Tags Practice](docs/practice/formatting-tags.html)
+- 🧪 [Lists Practice](docs/practice/lists.html)
+- 🧪 Tables Practice (coming soon)
