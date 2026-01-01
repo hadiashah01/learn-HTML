@@ -19,10 +19,10 @@ This folder contains all HTML assignments related to learning and practicing HTM
 assignments  
 ├─ assignment-01/  
 │ └─ index.html  
-├─ assignment-02/  
-│ └─ index.html  
-
-
+├─ Screenshots/  
+│ └─ output-img1.png 
+| └─ output-img2.png 
+├─ README.md
 
 ## Assignment 01
 
