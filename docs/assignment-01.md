@@ -36,28 +36,32 @@ The following concepts were used in this assignment:
 </body>
 </html>
 ```
-[!IMPORTANT]
-```<!DOCTYPE html>``` declares the document as HTML5.
+>[!IMPORTANT]
+>```<!DOCTYPE html>``` declares the document as HTML5.
 
-# Elements & Tags
- ## Paired Tags
+## Elements & Tags
+
+### Paired Tags
 ```html
-Copy code
+
 <p>Paragraph</p>
 <h1>Main Heading</h1>
 ```
-## Self-closing Tags
+
+### Self-closing Tags
 ```html
 Copy code
 <br />
 <hr />
 <img />
 ```
+
 >[!NOTE]
 >Self-closing tags do not contain content.
 
-## Lists
-Unordered List
+### Lists
+
+#### Unordered List
 ```html
 Copy code
 <ul>
@@ -65,7 +69,8 @@ Copy code
   <li>Item Two</li>
 </ul>
 ```
-## Nested List
+
+#### Nested List
 ```html
 Copy code
 <ul>
@@ -76,15 +81,18 @@ Copy code
   </li>
 </ul>
 ```
-## Anchor Tags
-Same Page Linking
+
+### Anchor Tags
+#### Same Page Linking
+
 ```html
 Copy code
 <a href="#section-id">Go to Section</a>
 
 <h2 id="section-id">Target Section</h2>
 ```
-Linking to Another File
+#### Linking to Another File
+
 ```html
 Copy code
 <a href="about-me.html">About Me</a>
@@ -93,14 +101,16 @@ Copy code
 >href value must match the target id.
 
 ## Development Environment
-Tool	Usage
-Visual Studio Code	Writing HTML
-Live Server	Local testing
-Web Browser	Rendering HTML
+| Tool |	Usage | 
+|--------------|-------------|
+| Visual Studio Code | Writing HTML |
+| Live Server	| Local testing |
+| Web Browser |	Rendering HTML |
+
 
 ## Implementation Reference
 HTML file:  
-[Assignment-01/index.html](./assignments/assignment-01/index.html)
+[Assignment-01/index.html](../assignments/assignment-01/index.html)
 
 >[!TIP]
 >This document explains what and why.
