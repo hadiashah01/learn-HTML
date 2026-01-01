@@ -5,7 +5,7 @@
 - [Rules](#rules)
 - [Structure](#structure)
 - [Assignment 01](#assignment-01)
-
+- [Output Screenshots](#output-screenshots)
 
 This folder contains all HTML assignments related to learning and practicing HTML.
 
