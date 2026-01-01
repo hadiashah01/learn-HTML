@@ -9,7 +9,7 @@ The goal of this documentation is to:
 - Support assignments with theoretical understanding
 - Keep learning notes organized and easy to reference
 
----
+
 
 ## Contents
 
@@ -23,13 +23,13 @@ The goal of this documentation is to:
   - Anchor tags and links
   - HTML5 DTD (Document Type Definition)
 
----
+
 
 ## How to Use This Folder
 - Read documentation **before or after** working on assignments
 - Refer to assignment-specific files for explanations
-- View actual HTML implementation inside the `assignments/` folder
+- View actual HTML implementation inside the [Assignments](/assignments) folder   
 
 > [!NOTE]
 > This folder does **not** contain actual HTML output files.
-> All implementations are placed inside the `assignments` directory.
+> All implementations are placed inside the [Assignments](/assignments) directory.
