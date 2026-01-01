@@ -1,12 +1,13 @@
 # Assignment 01 — HTML Fundamentals
 
 ## Objective
+
 The objective of this assignment is to practice **basic HTML concepts**
 by creating an HTML document that resembles a GitHub README file.
 
 This assignment focuses on **structure, semantics, and linking**, not styling.
 
----
+
 
 ## What Was Implemented
 
@@ -20,7 +21,7 @@ The following concepts were used in this assignment:
 - Linking to other files
 - Basic formatting tags
 
----
+
 
 ## HTML Structure Used
 
@@ -42,6 +43,7 @@ The following concepts were used in this assignment:
 # Elements & Tags
 
 ## Paired Tags
+
 ```html
 
 <p>Paragraph</p>
@@ -49,6 +51,7 @@ The following concepts were used in this assignment:
 ```
 
 ## Self-closing Tags
+
 ```html
 <br />
 <hr />
@@ -61,6 +64,7 @@ The following concepts were used in this assignment:
 ## Lists
 
 ### Unordered List
+
 ```html
 <ul>
   <li>Item One</li>
@@ -69,6 +73,7 @@ The following concepts were used in this assignment:
 ```
 
 ### Nested List
+
 ```html
 <ul>
   <li>Main Item
@@ -80,6 +85,7 @@ The following concepts were used in this assignment:
 ```
 
 ## Anchor Tags
+
 ### Same Page Linking
 
 ```html
@@ -87,6 +93,7 @@ The following concepts were used in this assignment:
 
 <h2 id="section-id">Target Section</h2>
 ```
+
 ### Linking to Another File
 
 ```html
@@ -96,6 +103,7 @@ The following concepts were used in this assignment:
 >```href``` value must match the target ```id```.
 
 ## Development Environment
+
 | Tool |	Usage | 
 |--------------|-------------|
 | Visual Studio Code | Writing HTML |
@@ -104,9 +112,11 @@ The following concepts were used in this assignment:
 
 
 ## Implementation Reference
-HTML file:  
+
+**HTML file:** 
+
 [Assignment-01/index.html](../assignments/assignment-01/index.html)
 
 >[!TIP]
 >This document explains what and why.
-The actual code demonstrates how.
+>The actual code demonstrates how.
