@@ -37,7 +37,7 @@ The following concepts were used in this assignment:
 </html>
 ```
 >[!IMPORTANT]
->```<!DOCTYPE html>``` declares the document as HTML5.
+>```<!DOCTYPE html>``` declares the document as **HTML5.**
 
 # Elements & Tags
 
@@ -50,7 +50,6 @@ The following concepts were used in this assignment:
 
 ## Self-closing Tags
 ```html
-Copy code
 <br />
 <hr />
 <img />
@@ -63,7 +62,6 @@ Copy code
 
 ### Unordered List
 ```html
-Copy code
 <ul>
   <li>Item One</li>
   <li>Item Two</li>
@@ -72,7 +70,6 @@ Copy code
 
 ### Nested List
 ```html
-Copy code
 <ul>
   <li>Main Item
     <ul>
@@ -86,7 +83,6 @@ Copy code
 ### Same Page Linking
 
 ```html
-Copy code
 <a href="#section-id">Go to Section</a>
 
 <h2 id="section-id">Target Section</h2>
@@ -94,7 +90,6 @@ Copy code
 ### Linking to Another File
 
 ```html
-Copy code
 <a href="about-me.html">About Me</a>
 ```
 >[!IMPORTANT]
