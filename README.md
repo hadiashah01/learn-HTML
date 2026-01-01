@@ -28,10 +28,12 @@ CSS and JavaScript may be added in the future.
 
 ## Tools & Technologies
 
-- HTML5
-- VS Code
-- Live Server (VS Code Extension)
-- Web Browser
+| Tool/Technology | Documentation |
+|----------------|---------------|
+| HTML5 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| VS Code | [Official Docs](https://code.visualstudio.com/docs) |
+| Live Server | [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
+| Web Browser | [Chrome DevTools](https://developer.chrome.com/docs/devtools/) |
 
 ## Project Structure
 
