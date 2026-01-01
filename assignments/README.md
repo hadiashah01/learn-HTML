@@ -15,7 +15,7 @@ This folder contains all HTML assignments related to learning and practicing HTM
 - Assignments are organized in numbered order
 
 ## Structure
-
+``` bash
 assignments  
 ├─ assignment-01/  
 │ └─ index.html  
@@ -23,7 +23,7 @@ assignments
 │ └─ output-img1.png 
 | └─ output-img2.png 
 ├─ README.md
-
+```
 ## Assignment 01
 
 - HTML document structure
