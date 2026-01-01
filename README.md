@@ -1,7 +1,7 @@
-
 # Learn HTML
 
 ## Table of Contents
+
 - [Purpose](#purpose)
 - [Topics Covered](#topics-covered)
 - [Tools & Technologies](#tools--technologies)
@@ -10,11 +10,13 @@
 
 
 ## Purpose
+
 This repository is created to learn and practice **HTML only**.
 Currently, the focus is on HTML fundamentals such as elements, links, lists, and anchors.
 CSS and JavaScript may be added in the future.
 
 ## Topics Covered
+
 - HTML elements
 - Comments
 - Attributes
@@ -25,12 +27,14 @@ CSS and JavaScript may be added in the future.
 - HTML5 DTD (Document Type Definition)
 
 ## Tools & Technologies
+
 - HTML5
 - VS Code
 - Live Server (VS Code Extension)
 - Web Browser
 
 ## Project Structure
+
 learn-HTML  
 ├─ README.md  
 ├─ assignments/   
@@ -41,12 +45,15 @@ learn-HTML
 │ ├─ formatting-tags.html   
 │ ├─ lists.html   
 │ └─ tables.html  
+
 ## Assignments   
+
 - [x] Assignment 01 – HTML basics (headings, paragraphs, lists, anchors)
 - [ ] Assignment 02 
 ---
 
 ## Assignments  
+
 - [Assignments README](assignments/README.md) (Assignment details)
 - ✅ [Assignment 01 – HTML Basics](assignments/assignment-01/index.html)
 - ⬜ Assignment 02 (planned)
@@ -54,6 +61,7 @@ learn-HTML
 ---
 
 ## Documentation
+
 Detailed explanations and notes are maintained in the `docs` folder.
 
 -  [Docs Overview](docs/README.md)
@@ -62,6 +70,7 @@ Detailed explanations and notes are maintained in the `docs` folder.
 ---
 
 ## Practice Files
+
 Hands-on practice files for individual HTML concepts:
 
 - 🧪 [Formatting Tags Practice](docs/practice/formatting-tags.html)
