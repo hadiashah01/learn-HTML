@@ -37,16 +37,18 @@ CSS and JavaScript may be added in the future.
 
 ## Project Structure
 
-learn-HTML  
-├─ README.md  
-├─ assignments/   
-│ ├─ README.md   
-│ └─ assignment-01/   
-│ └─ index.html  
-├─ practice/   
-│ ├─ formatting-tags.html   
-│ ├─ lists.html   
-│ └─ tables.html  
+```
+learn-HTML
+├─ README.md
+├─ assignments/
+│ ├─ README.md
+│ └─ assignment-01/
+│ └─ index.html
+├─ practice/
+│ ├─ formatting-tags.html
+│ ├─ lists.html
+│ └─ tables.html
+```
 
 ## Assignments   
 
