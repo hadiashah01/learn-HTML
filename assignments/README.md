@@ -37,9 +37,9 @@ assignments
 
 Below are the screenshots showing the output of the web page.
 - [HTML Output (Upper Section)](Screenshots/output%20img1.png)
-- [HTML Output (Upper Section)](Screenshots/output%20img2.png)
+- [HTML Output (Lower Section)](Screenshots/output%20img2.png)
 
 
-**File:**
+## File:
 
-- [`index.html`](./assignment-01/index.html)
+- [index.html](./assignment-01/index.html)
