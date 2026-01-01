@@ -63,12 +63,3 @@ Detailed explanations and notes are maintained in the `docs` folder.
 -  [Docs Overview](docs/README.md)
 -  [Assignment 01 – Explanation](docs/assignment-01.md)
 
----
-
-## Practice Files
-
-Hands-on practice files for individual HTML concepts:
-
-- 🧪 [Formatting Tags Practice](docs/practice/formatting-tags.html)
-- 🧪 [Lists Practice](docs/practice/lists.html)
-- 🧪 Tables Practice (coming soon)
