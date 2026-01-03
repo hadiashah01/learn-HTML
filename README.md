@@ -11,8 +11,9 @@
 
 ## Purpose
 
-This repository is created to learn and practice **HTML only**.
-Currently, the focus is on HTML fundamentals such as elements, links, lists, and anchors.
+## Purpose
+
+I am learning HTML and using this repository to practice HTML basics like elements, links, lists, and anchors.
 CSS and JavaScript may be added in the future.
 
 ## Topics Covered
