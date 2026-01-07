@@ -45,6 +45,8 @@ learn-HTML
 │ ├─ README.md
 │ └─ assignment-01/
 │ └─ index.html
+└─ assignment-02/
+│ └─ webpage.html
 ├─ practice/
 │ ├─ formatting-tags.html
 │ ├─ lists.html
@@ -55,7 +57,7 @@ learn-HTML
 
 - [x] [Create README Markdown to introduce repository](assignments/README.md)
 - [x] [Use formatting tags to clone repo README](assignments/assignment-01/index.html)
-- [ ] Assignment 02 (planned)
+- [x] [Practicing Emmet to create a HTML only personal webpage](assignments/assignment-02/webpage.html)
 
 ## Documentation
 
