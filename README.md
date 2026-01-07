@@ -26,6 +26,11 @@ CSS and JavaScript may be added in the future.
 - Anchoring to different files
 - Lists and nested lists
 - HTML5 DTD (Document Type Definition)
+- Semantic HTML tags  (`header`, `nav`, `main`, `article`, `aside`, `footer`)
+- Text structure elements  (Headings `h1–h6`, Paragraph `p`)
+- Text formatting tags  (`em`, `strong`, `mark`)
+- Tables  (`table`, `tr`, `th`, `td`)
+
 
 ## Tools & Technologies
 
