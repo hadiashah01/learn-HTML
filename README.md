@@ -1,20 +1,16 @@
 # Learn HTML
 
+I am learning HTML and using this repository to practice HTML basics like elements, links, lists, and anchors.
+CSS and JavaScript may be added in the future.
+
+
 ## Table of Contents
 
-- [Purpose](#purpose)
 - [Topics Covered](#topics-covered)
 - [Tools & Technologies](#tools--technologies)
 - [Project Structure](#project-structure)
 - [Assignments](#assignments)
 
-
-## Purpose
-
-## Purpose
-
-I am learning HTML and using this repository to practice HTML basics like elements, links, lists, and anchors.
-CSS and JavaScript may be added in the future.
 
 ## Topics Covered
 
@@ -28,8 +24,8 @@ CSS and JavaScript may be added in the future.
 - HTML5 DTD (Document Type Definition)
 - Semantic HTML tags  (`header`, `nav`, `main`, `article`, `aside`, `footer`)
 - Text structure elements  (Headings `h1–h6`, Paragraph `p`)
-- Text formatting tags  (`em`, `strong`, `mark`)
-- Tables  (`table`, `tr`, `th`, `td`)
+- Text formatting tags  (`em`, `strong`, `mark`,`b`, `i`, `ins`, `del`, `s`, `code`, `q`)
+- Tables  (`table`,`tr`,`th`,`td`,`thead`,`tbody`,`tfoot`.)
 
 
 ## Tools & Technologies
@@ -50,7 +46,7 @@ learn-HTML
 │ ├─ README.md
 │ └─ assignment-01/
 │ └─ index.html
-└─ assignment-02/
+| └─ assignment-02/
 │ └─ webpage.html
 ├─ practice/
 │ ├─ formatting-tags.html
