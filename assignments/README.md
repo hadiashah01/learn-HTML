@@ -5,12 +5,11 @@
 - [Rules](#rules)
 - [Structure](#structure)
 - [Assignment 01](#use-formatting-tags-to-clone-repo-readme-assignment-01)
+- [Assignment 01 Screenshots](#output-screenshots-assignment-01)
 
-
-- [Output Screenshots](#output-screenshots)
 - [Assignment 02](#practicing-emmet-to-create-a-html-only-personal-webpage-assignment-02)
+- [Assignment 02 Screenshots](#output-screenshots-assignment-02)
 
-- [Output Screenshots](#output-screenshots)
 
 This folder contains all HTML assignments related to learning and practicing HTML.
 
@@ -29,6 +28,8 @@ assignments
 ├─ Screenshots/  
 │ └─ output-img1.png 
 | └─ output-img2.png 
+│ └─ output-imgA.png 
+| └─ output-imgB.png 
 ├─ README.md
 ```
 ## Use formatting tags to clone repo README (assignment-01)
@@ -40,7 +41,7 @@ assignments
 - Anchor links (same page & other pages)
 
 
-## Output Screenshots
+## Output Screenshots (Assignment-01)
 
 Below are the screenshots showing the output of the web page.
 ![HTML Output (Upper Section)](screenshots/output-img1.png)
@@ -58,16 +59,16 @@ Below are the screenshots showing the output of the web page.
 - Using tables, commented sections, and lists of repositories/skills
 - Adding external links (GitHub, LinkedIn)
 
-## Output Screenshots
+## Output Screenshots (Assignment-02)
 
 Below are the screenshots showing the output of the web page.
-- ![HTML Output (Upper Section)](screenshots/output-img1.png)
-- ![HTML Output (Lower Section)](screenshots/output-img2.png)
+ ![HTML Output (Upper Section)](screenshots/output-imgA.png)
+![HTML Output (Lower Section)](screenshots/output-imgB.png)
 
 
 ### File:
 
-- [webpage.html](./assignment-01/webpage.html)
+- [webpage.html](./assignment-02/webpage.html)
 
 
 
