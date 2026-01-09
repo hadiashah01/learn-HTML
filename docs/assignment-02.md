@@ -45,3 +45,7 @@ The following concepts were used in this assignment:
 **HTML file:**
 
 [Assignment-02/webpage.html](../assignments/assignment-02/webpage.html)
+
+> [!TIP]
+> This README documents structure and intent.  
+> The HTML file demonstrates actual implementation using Emmet.
