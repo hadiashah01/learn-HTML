@@ -15,6 +15,7 @@ The goal of this documentation is to:
 
 - **Assignment Notes**
   - [Assignment 01 — HTML Fundamentals](assignment-01.md)
+  - [Assignment 02 — Practicing Emmet](assignment-02.md)
 
 - **Concepts Covered (via assignments & lectures)**
   - HTML document structure
@@ -22,6 +23,10 @@ The goal of this documentation is to:
   - Lists and nested lists
   - Anchor tags and links
   - HTML5 DTD (Document Type Definition)
+  - Semantic HTML tags  (`header`, `nav`, `main`, `article`, `aside`, `footer`)
+- Text structure elements  (Headings `h1–h6`, Paragraph `p`)
+- Text formatting tags  (`em`, `strong`, `mark`,`b`, `i`, `ins`, `del`, `s`, `code`, `q`)
+- Tables  (`table`,`tr`,`th`,`td`,`thead`,`tbody`,`tfoot`.)
 
 
 
