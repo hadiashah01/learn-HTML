@@ -30,6 +30,16 @@ The following concepts were used in this assignment:
 - **Aside:** Links to GitHub repositories
 - **Footer:** Brief re-intro + social links
 
+## Page Structure Overview
+
+```html
+<header>     <!-- Banner: name & intro --> </header>
+<nav>        <!-- Navigation links --> </nav>
+<main>       <!-- Core content sections --> </main>
+<aside>      <!-- GitHub repositories --> </aside>
+<footer>     <!-- Contentinfo & social links --> </footer>
+ ```
+
 ## Implementation Reference
 
 **HTML file:**
