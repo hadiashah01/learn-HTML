@@ -24,9 +24,9 @@ The goal of this documentation is to:
   - Anchor tags and links
   - HTML5 DTD (Document Type Definition)
   - Semantic HTML tags  (`header`, `nav`, `main`, `article`, `aside`, `footer`)
-- Text structure elements  (Headings `h1–h6`, Paragraph `p`)
-- Text formatting tags  (`em`, `strong`, `mark`,`b`, `i`, `ins`, `del`, `s`, `code`, `q`)
-- Tables  (`table`,`tr`,`th`,`td`,`thead`,`tbody`,`tfoot`.)
+  - Text structure elements  (Headings `h1–h6`, Paragraph `p`)
+  - Text formatting tags  (`em`, `strong`, `mark`,`b`, `i`, `ins`, `del`, `s`, `code`, `q`)
+  - Tables  (`table`,`tr`,`th`,`td`,`thead`,`tbody`,`tfoot`.)
 
 
 
