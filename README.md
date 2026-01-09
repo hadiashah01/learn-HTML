@@ -48,7 +48,13 @@ learn-HTML
 │ └─ index.html
 | └─ assignment-02/
 │ └─ webpage.html
+├─ screenshots/
+├─ docs/
+| ├─ README.md
+│ └─ assignment-01.md
+| └─ assignment-02.md
 ├─ practice/
+| ├─ README.md
 │ ├─ formatting-tags.html
 │ ├─ lists.html
 │ └─ tables.html
@@ -56,7 +62,7 @@ learn-HTML
 
 ## Assignments  
 
-- [x] [Create README Markdown to introduce repository](assignments/README.md)
+- [x] [README Markdown to introduce repository](assignments/README.md)
 - [x] [Use formatting tags to clone repo README](assignments/assignment-01/index.html)
 - [x] [Practicing Emmet to create a HTML only personal webpage](assignments/assignment-02/webpage.html)
 
@@ -66,4 +72,6 @@ Detailed explanations and notes are maintained in the `docs` folder.
 
 -  [Docs Overview](docs/README.md)
 -  [Assignment 01 – Explanation](docs/assignment-01.md)
+-  [Assignment 02 – Explanation](docs/assignment-02.md)
+
 
